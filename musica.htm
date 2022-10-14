@@ -1,0 +1,187 @@
+<HTML>
+<BODY>
+<script>
+faixa = new Array();
+faixa[0] = "midi/stop.htm";
+faixa[1] = "midi/sonic1/grnhill.htm";
+faixa[2] = "midi/sonic1/marble.htm";
+faixa[3] = "midi/sonic1/spryard.htm";
+faixa[4] = "midi/sonic1/labyrint.htm";
+faixa[5] = "midi/sonic1/starlite.htm";
+faixa[6] = "midi/sonic1/scrap.htm";
+faixa[7] = "midi/sonic1/final.htm";
+faixa[8] = "midi/sonic1/son1bos1.htm";
+faixa[9] = "midi/sonic1/son1end.htm";
+faixa[10] = "midi/sonic1/s1_ss.htm";
+faixa[12] = "midi/sonic2/emrldhil.htm";
+faixa[13] = "midi/sonic2/chmplant.htm";
+faixa[14] = "midi/sonic2/aquaticr.htm";
+faixa[15] = "midi/sonic2/casino.htm";
+faixa[16] = "midi/sonic2/hilltop.htm";
+faixa[17] = "midi/sonic2/mystic.htm";
+faixa[18] = "midi/sonic2/oilocean.htm";
+faixa[19] = "midi/sonic2/metropol.htm";
+faixa[20] = "midi/sonic2/skychase.htm";
+faixa[21] = "midi/sonic2/wingfort.htm";
+faixa[22] = "midi/sonic2/deathegg.htm";
+faixa[23] = "midi/sonic2/emrld2p.htm";
+faixa[24] = "midi/sonic2/casino2p.htm";
+faixa[25] = "midi/sonic2/mstcave2.htm";
+faixa[26] = "midi/sonic2/hidden_p.htm";
+faixa[27] = "midi/sonic2/s2_ss.htm";
+faixa[28] = "midi/sonic2/son2bos1.htm";
+faixa[29] = "midi/sonic2/son2boss.htm";
+faixa[30] = "midi/sonic2/son2end.htm";
+faixa[31] = "midi/sonic2/son2end2.htm";
+faixa[32] = "midi/sonic2/superson.htm";
+faixa[33] = "midi/sonic2/raceres.htm";
+faixa[34] = "midi/sonic2/s2option.htm";
+faixa[35] = "midi/sonic3k/angel_1.htm";
+faixa[36] = "midi/sonic3k/angel_2.htm";
+faixa[37] = "midi/sonic3k/hydro_1.htm";
+faixa[38] = "midi/sonic3k/hydro_2.htm";
+faixa[39] = "midi/sonic3k/mgardn_1.htm";
+faixa[40] = "midi/sonic3k/mgardn_2.htm";
+faixa[41] = "midi/sonic3k/carnival.htm";
+faixa[42] = "midi/sonic3k/carniva2.htm";
+faixa[43] = "midi/sonic3k/icecap.htm";
+faixa[44] = "midi/sonic3k/icecap2.htm";
+faixa[45] = "midi/sonic3k/l_base1.htm";
+faixa[46] = "midi/sonic3k/l_base2.htm";
+faixa[47] = "midi/sonic3k/son3bos.htm";
+faixa[48] = "midi/sonic3k/mushhill.htm";
+faixa[49] = "midi/sonic3k/mushhil2.htm";
+faixa[50] = "midi/sonic3k/battery1.htm";
+faixa[51] = "midi/sonic3k/battery2.htm";
+faixa[52] = "midi/sonic3k/sand_1.htm";
+faixa[53] = "midi/sonic3k/sand_2.htm";
+faixa[54] = "midi/sonic3k/lavareef.htm";
+faixa[55] = "midi/sonic3k/h_palace.htm";
+faixa[56] = "midi/sonic3k/sky_s.htm";
+faixa[57] = "midi/sonic3k/deathe_1.htm";
+faixa[58] = "midi/sonic3k/deathe_2.htm";
+faixa[59] = "midi/sonic3k/doomsday.htm";
+faixa[60] = "midi/sonic3k/s3_ss.htm";
+faixa[61] = "midi/sonic3k/azure_l.htm";
+faixa[62] = "midi/sonic3k/b_park.htm";
+faixa[63] = "midi/sonic3k/chrome_g.htm";
+faixa[64] = "midi/sonic3k/d_palace.htm";
+faixa[65] = "midi/sonic3k/endlessm.htm";
+faixa[66] = "midi/sonic3k/bonus1.htm";
+faixa[67] = "midi/sonic3k/bonus2.htm";
+faixa[68] = "midi/sonic3k/bonus3.htm";
+faixa[69] = "midi/sonic3k/son3race.htm";
+faixa[70] = "midi/sonic3k/knuckles.htm";
+faixa[71] = "midi/sonic3k/robotnik.htm";
+faixa[72] = "midi/sonic3k/act1boss.htm";
+faixa[73] = "midi/sonic3k/sub-boss.htm";
+faixa[74] = "midi/sonic3k/select.htm";
+faixa[75] = "midi/sonic3k/son3end.htm";
+faixa[76] = "midi/sonic3k/s-k_end.htm";
+
+function musica(nn)
+{
+
+Icombo = nn.selectedIndex 
+if(nn.options[Icombo].value!="n")
+{
+frames.open(faixa[nn.options[Icombo].value],"musica")
+}}
+</script>
+<form name=music style="font-family: Arial; font-size: smaller; background-color: rgb(0,0,0); color: rgb(0,200,255)">
+<select name="mus" size=1 onchange="musica(mus)" style="font-family: Arial; font-size: smaller; background-color: rgb(0,0,0); color: rgb(0,200,255)">
+<option value="n" selected>&nbsp;&nbsp;&nbsp;Musica de Fundo</option>
+<option value="n">&nbsp;</option>
+<option value="0">
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;STOP	</option>
+<option value="n">&nbsp;</option>
+<option value="n">
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;           Sonic 1		</option>
+<option value="1">	Green Hill Zone		</option>
+<option value="2">	Marble Zone		</option>
+<option value="3">	Sprng Yard Zone		</option>
+<option value="4">	Labyrinty Zone		</option>
+<option value="5">	Star Light Zone		</option>
+<option value="6">	Scrap Brain Zone	</option>
+<option value="7">	Final Zone		</option>
+<option value="8">	Boss Song		</option>
+<option value="9">	Encerramento		</option>
+<option value="10">	Special Stage		</option>
+<option value="n">		&nbsp;		</option>
+<option value="n">
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;            Sonic 2		</option>
+<option value="12">	Emerald Hill        	</option>
+<option value="13">	Chemical Plant 		</option>
+<option value="14">	Aquatic Ruin 		</option>
+<option value="15">	Casino Night 		</option>
+<option value="16">	Hill Top 		</option>
+<option value="17">	Mystic Cave 		</option>
+<option value="18">	Oil Ocean 		</option>
+<option value="19">	Metropolis 		</option>
+<option value="20">	Sky Chase		</option>
+<option value="21">	Wing Fortress		</option>
+<option value="22">	Death Egg		</option>
+<option value="23">	Emerald Hill (vs)	</option>
+<option value="24">	Casino Night (vs)	</option>
+<option value="25">	Mystic Cave (vs)	</option>
+<option value="26">	Hidden Palace 		</option>
+<option value="27">	Special Stage		</option>
+<option value="28">	Robotnik Theme		</option>
+<option value="29">	Final Boss		</option>
+<option value="30">	Encerramento		</option>
+<option value="31">	Creditos		</option>
+<option value="32">	Super Sonic		</option>
+<option value="33">	Versus Results		</option>
+<option value="34">	Options			</option>
+<option value="n" >           &nbsp;		</option>
+<option value="n" >	Sonic3 & Knuckles	</option>
+<option value="35">	Angel Island (1)	</option>
+<option value="36">	Angel Island(2)		</option>
+<option value="37">	Hydrocity (Act1)	</option>
+<option value="38">	Hydrocity (Act2)	</option>
+<option value="39">	Marble Garden(1)	</option>
+<option value="40">	Marble Garden(2)	</option>
+<option value="41">	Carnival Night(1)	</option>
+<option value="42">	Carnival Night(2)	</option>
+<option value="43">	IceCap (Act1)		</option>
+<option value="44">	IceCap (Act2)		</option>
+<option value="45">	Launch Base(1)		</option>
+<option value="46">	Launch Base(2)		</option>
+<!--<option value="47">	Sonic 3 Boss		</option>-->
+<option value="48">	Mushroom Hill(1)	</option>
+<option value="49">	Mushroom Hill(2)	</option>
+<option value="50">	Flying Battery(1)	</option>
+<option value="51">	Flying Battery(2)	</option>
+<option value="52">	Sandopolis (1)		</option>
+<option value="53">	Sandopolis (2)		</option>
+<option value="54">	Lava Reef (1)		</option>
+<option value="55">	Hidden Palace 		</option>
+<option value="56">	Sky Sanctuary 		</option>
+<option value="57">	Death Egg(1)		</option>
+<option value="58">	Death Egg(2)		</option>
+<option value="59">	Doomsday 		</option>
+<option value="60">	Special Stage		</option>
+<option value="61">	Azure Lake 		</option>
+<option value="62">	Balloon Park 		</option>
+<option value="63">	Chrome Gadget 		</option>
+<option value="64">	Desert Palace 		</option>
+<option value="65">	Endless Mine 		</option>
+<option value="66">	Bonus 1			</option>
+<option value="67">	Bonus 2			</option>
+<option value="68">	Bonus 3			</option>
+<option value="70">	Knuckles's Theme	</option>
+<option value="71">	Robotnik's Theme	</option>
+<option value="72">	Sub-Boss (S 3)		</option>
+<option value="74">	Save Screen		</option>
+<option value="75">	Sonic 3 Credits		</option>
+<option value="76">	S&amp;K Ending Theme	</option>
+</select></form>
+
+</BODY>
+</HTML>

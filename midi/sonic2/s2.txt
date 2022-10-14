@@ -1,0 +1,56 @@
+
+ O volume da unidade D ‚ DISK1_VOL1 
+ O n£mero de s‚rie do volume ‚ 2116-4CF4
+ Pasta de D:\DANIEL\trabalhos\Paginas\Chaos emerald\int\midi\sonic2
+
+.              <DIR>        28/02/99  16:13 .
+..             <DIR>        28/02/99  16:13 ..
+CASINO   MID        21.181  07/12/00  23:43 casino.mid
+CASINO2P MID        13.114  07/12/00  23:43 casino2p.mid
+CHMPLANT MID        30.304  07/12/00  23:43 chmplant.mid
+DEATHEGG MID         9.379  07/12/00  23:44 deathegg.mid
+EMRLD2P  MID        13.251  07/12/00  23:44 emrld2p.mid
+EMRLDHIL MID         6.859  07/12/00  23:45 emrldhil.mid
+HIDDEN_P MID        15.997  07/12/00  23:47 hidden_p.mid
+HILLTOP  MID         3.688  07/12/00  23:48 hilltop.mid
+METROPOL MID        13.480  07/12/00  23:50 metropol.mid
+MSTCAVE2 MID        12.505  07/12/00  23:51 mstcave2.mid
+MYSTIC   MID        32.479  07/12/00  23:52 mystic.mid
+OILOCEAN MID        25.735  08/12/00   0:06 oilocean.mid
+RACERES  MID        12.306  08/12/00   0:21 raceres.mid
+S2_SS    MID        24.893  08/12/00   0:22 s2_ss.mid
+S2OPTION MID         5.372  08/12/00   0:22 s2option.mid
+AQUATICR MID        22.452  07/12/00  23:42 aquaticr.mid
+SKYCHASE MID         4.769  08/12/00   0:23 skychase.mid
+SON2BOS1 MID         4.736  08/12/00   0:24 son2bos1.mid
+SON2BOSS MID         4.845  08/12/00   0:24 son2boss.mid
+SON2END  MID         8.585  08/12/00   0:24 son2end.mid
+SON2END2 MID        21.745  08/12/00   0:24 son2end2.mid
+SUPERSON MID         7.335  08/12/00   0:26 superson.mid
+WINGFORT MID         5.955  08/12/00   0:29 wingfort.mid
+CASINO   HTM           601  28/02/99  16:14 CASINO.HTM
+CASINO2P HTM           603  28/02/99  16:14 CASINO2P.HTM
+CHMPLANT HTM           603  28/02/99  16:14 CHMPLANT.HTM
+DEATHEGG HTM           603  28/02/99  16:14 DEATHEGG.HTM
+EMRLD2P  HTM           602  28/02/99  16:14 EMRLD2P.HTM
+EMRLDHIL HTM           603  28/02/99  16:14 EMRLDHIL.HTM
+HIDDEN_P HTM           603  28/02/99  16:14 HIDDEN_P.HTM
+HILLTOP  HTM           602  28/02/99  16:14 HILLTOP.HTM
+METROPOL HTM           603  28/02/99  16:14 METROPOL.HTM
+MSTCAVE2 HTM           603  28/02/99  16:14 MSTCAVE2.HTM
+MYSTIC   HTM           601  28/02/99  16:14 MYSTIC.HTM
+OILOCEAN HTM           603  28/02/99  16:14 OILOCEAN.HTM
+RACERES  HTM           602  28/02/99  16:14 RACERES.HTM
+S2_SS    HTM           600  28/02/99  16:14 S2_SS.HTM
+S2OPTION HTM           603  28/02/99  16:14 S2OPTION.HTM
+AQUATICR HTM           603  28/02/99  16:14 AQUATICR.HTM
+SKYCHASE HTM           603  28/02/99  16:14 SKYCHASE.HTM
+SON2BOS1 HTM           603  28/02/99  16:14 SON2BOS1.HTM
+SON2BOSS HTM           603  28/02/99  16:14 SON2BOSS.HTM
+SON2END  HTM           602  28/02/99  16:15 SON2END.HTM
+SON2END2 HTM           603  28/02/99  16:15 SON2END2.HTM
+SUPERSON HTM           603  28/02/99  16:15 SUPERSON.HTM
+WINGFORT HTM           603  28/02/99  16:15 WINGFORT.HTM
+S2       TXT             0  01/03/01  16:25 s2.txt
+        47 arquivo(s)        334.823  bytes
+         2 pasta(s)      32.931.840  bytes dispon¡veis

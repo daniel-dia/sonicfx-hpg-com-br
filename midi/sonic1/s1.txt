@@ -1,0 +1,30 @@
+
+ O volume da unidade D ‚ DISK1_VOL1 
+ O n£mero de s‚rie do volume ‚ 2116-4CF4
+ Pasta de D:\DANIEL\trabalhos\Paginas\Chaos emerald\int\midi\sonic1
+
+.              <DIR>        28/02/99  16:13 .
+..             <DIR>        28/02/99  16:13 ..
+GRNHILL  MID        23.952  07/12/00  23:47 grnhill.mid
+LABYRINT MID        10.033  07/12/00  23:49 labyrint.mid
+MARBLE   MID         7.934  07/12/00  23:50 marble.mid
+S1_SS    MID         5.332  08/12/00   0:22 s1_ss.mid
+SCRAP    MID         9.976  08/12/00   0:23 scrap.mid
+SON1BOS1 MID         3.970  08/12/00   0:24 son1bos1.mid
+FINAL    MID         9.922  07/12/00  23:45 final.mid
+SON1END  MID        17.560  08/12/00   0:24 son1end.mid
+SPRYARD  MID        12.563  08/12/00   0:25 spryard.mid
+STARLITE MID        13.137  08/12/00   0:25 starlite.mid
+GRNHILL  HTM           602  28/02/99  16:14 GRNHILL.HTM
+LABYRINT HTM           603  28/02/99  16:14 LABYRINT.HTM
+MARBLE   HTM           601  28/02/99  16:14 MARBLE.HTM
+S1_SS    HTM           600  28/02/99  16:14 S1_SS.HTM
+SCRAP    HTM           600  28/02/99  16:14 SCRAP.HTM
+SON1BOS1 HTM           603  28/02/99  16:14 SON1BOS1.HTM
+FINAL    HTM           600  28/02/99  16:14 FINAL.HTM
+SON1END  HTM           602  28/02/99  16:14 SON1END.HTM
+SPRYARD  HTM           602  28/02/99  16:14 SPRYARD.HTM
+STARLITE HTM           603  28/02/99  16:14 STARLITE.HTM
+S1       TXT             0  01/03/01  16:25 s1.txt
+        21 arquivo(s)        120.395  bytes
+         2 pasta(s)      32.948.224  bytes dispon¡veis

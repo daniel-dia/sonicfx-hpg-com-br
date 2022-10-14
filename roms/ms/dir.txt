@@ -1,0 +1,65 @@
+
+ O volume da unidade D ‚ DISK1_VOL1 
+ O n£mero de s‚rie do volume ‚ 2116-4CF4
+ Pasta de D:\DANIEL\trabalhos\Paginas\Chaos emerald\int\ms
+
+.              <DIR>        28/02/99  16:16 .
+..             <DIR>        28/02/99  16:16 ..
+SONIC1   HTM         2.704  28/02/99  16:16 SONIC1.HTM
+SONIC2   HTM         2.696  28/02/99  16:16 SONIC2.HTM
+SONICLB  HTM         2.725  28/02/99  16:16 SONICLB.HTM
+SONICBL  HTM         2.778  28/02/99  16:16 SONICBL.HTM
+SONICD1  HTM         2.751  28/02/99  16:16 SONICD1.HTM
+SONICD2  HTM         2.711  28/02/99  16:16 SONICD2.HTM
+SONICSP  HTM         2.690  28/02/99  16:16 SONICSP.HTM
+SONICTT  HTM         2.681  28/02/99  16:16 SONICTT.HTM
+SONICCH  HTM         2.720  28/02/99  16:16 SONICCH.HTM
+TAILSAD  HTM         2.632  28/02/99  16:16 TAILSAD.HTM
+TAILSSK  HTM         2.714  28/02/99  16:16 TAILSSK.HTM
+TAILS_04 GIF         3.166  01/03/01  16:19 tails_04.GIF
+SDRIF_04 GIF         2.286  01/03/01  16:16 sdrif_04.GIF
+SONCH_00 GIF         4.050  01/03/01  16:16 sonch_00.GIF
+SONCH_01 GIF         5.221  01/03/01  16:16 sonch_01.GIF
+SONCH_02 GIF         5.208  01/03/01  16:16 sonch_02.GIF
+SONCH_03 GIF         6.512  01/03/01  16:16 sonch_03.GIF
+SONIC_01 GIF         5.634  01/03/01  16:16 sonic_01.GIF
+SONIC_03 GIF         1.265  01/03/01  16:15 sonic_03.GIF
+SONIC_04 GIF         3.531  01/03/01  16:15 sonic_04.GIF
+SONIC_05 GIF         2.797  01/03/01  16:15 sonic_05.GIF
+SONIC_06 GIF         3.704  01/03/01  16:15 sonic_06.GIF
+SONIC_07 GIF         4.408  01/03/01  16:15 sonic_07.GIF
+SONIC_08 GIF         3.173  01/03/01  16:15 sonic_08.GIF
+SONIC_09 GIF         2.230  01/03/01  16:15 sonic_09.GIF
+SONIC_11 GIF         3.585  01/03/01  16:15 sonic_11.GIF
+SONIC_12 GIF         3.830  01/03/01  16:15 sonic_12.GIF
+SONIC_13 GIF         3.053  01/03/01  16:15 sonic_13.GIF
+SONIC_14 GIF         2.185  01/03/01  16:14 sonic_14.GIF
+SONIC_15 GIF         5.121  01/03/01  16:14 sonic_15.GIF
+SONIC_16 GIF         3.861  01/03/01  16:14 sonic_16.GIF
+SONIC_18 GIF         6.791  01/03/01  16:14 sonic_18.GIF
+SONIC_19 GIF        11.302  01/03/01  16:13 sonic_19.GIF
+SONIC_20 GIF         5.092  01/03/01  16:18 sonic_20.GIF
+SONIC_21 GIF         3.565  01/03/01  16:20 sonic_21.GIF
+SONIC_22 GIF         4.381  01/03/01  16:20 sonic_22.GIF
+SONIC_24 GIF         5.128  01/03/01  16:20 sonic_24.GIF
+SONTT_00 GIF         2.757  01/03/01  16:20 sontt_00.GIF
+SONTT_01 GIF         4.717  01/03/01  16:20 sontt_01.GIF
+SONTT_02 GIF         4.136  01/03/01  16:20 sontt_02.GIF
+SONTT_05 GIF         4.401  01/03/01  16:19 sontt_05.GIF
+SPIN_00  GIF         4.425  01/03/01  16:19 spin_00.GIF
+SPIN_01  GIF         2.756  01/03/01  16:19 spin_01.GIF
+SPIN_04  GIF         3.826  01/03/01  16:19 spin_04.GIF
+SPIN_05  GIF         4.240  01/03/01  16:19 spin_05.GIF
+TAILS_00 GIF         5.468  01/03/01  16:19 tails_00.GIF
+TAILS_01 GIF         6.517  01/03/01  16:19 tails_01.GIF
+TAILS_02 GIF         3.394  01/03/01  16:19 tails_02.GIF
+TAILS_03 GIF         6.572  01/03/01  16:19 tails_03.GIF
+SDRIF_03 GIF         4.742  01/03/01  16:17 sdrif_03.GIF
+TAILS_05 GIF         3.716  01/03/01  16:18 tails_05.GIF
+TAILS_06 GIF         3.990  01/03/01  16:18 tails_06.GIF
+TAILS_08 GIF         2.480  01/03/01  16:20 tails_08.GIF
+SDRIF_02 GIF         4.758  01/03/01  16:17 sdrif_02.GIF
+SDRIF_00 GIF         5.661  26/12/00  23:04 sdrif_00.GIF
+DIR      TXT             0  01/03/01  16:23 dir.txt
+        56 arquivo(s)        219.437  bytes
+         2 pasta(s)      32.964.608  bytes dispon¡veis

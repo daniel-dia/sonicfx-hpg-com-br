@@ -1,0 +1,73 @@
+<STYLE type="text/css">
+
+*{
+background: white;
+font-family: Arial;
+font-style: normal;
+color: black;
+font-size: 13px;
+color:#000000;
+}
+
+P{
+font-family: Arial;
+font-style: normal;
+color: black;
+font-size: 13px;
+color:#000000;
+}
+
+BODY{
+background: white;
+font-family: Arial;
+font-style: normal;
+color: black;
+font-size: 13px;
+color:#000000;
+}
+
+
+A:link{
+font-family: Arial;
+font-size : 15px;
+font-style: normal;
+color:#0000A0;
+}
+
+H1 {
+font-family: Arial;
+font-size : 28px;
+font-weight: 800; 
+color:#0000A0;
+}
+H2 {
+font-family: Arial;
+font-size : 18px;
+font-weight: 200; 
+color:#000000;
+}
+A:ACTIVE {
+font-family: Arial;
+font-size : 16px;
+font-weight: 800; 
+color:#FF0000;
+}
+A:HOVER {
+font-family: Arial;
+font-size : 16px;
+font-weight: 800; 
+color:#FF0000;
+}
+A:VISITED {
+font-family: Arial;
+font-size : 15px;
+font-style: normal;
+color:#0000FF;
+}
+pre {
+
+font-family: Fixedsys;
+font-size : 16px;
+color:#7F0000;
+
+</STYLE>

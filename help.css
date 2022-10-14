@@ -1,0 +1,43 @@
+<STYLE type="text/css">
+
+*{
+background: white;
+font-family: Arial;
+font-style: normal;
+color: black;
+font-size: 13px;
+color:#000000;
+}
+
+A:link{
+font-family: Arial;
+font-size : 13px;
+font-style: normal;
+color:#0000FF;
+}
+
+H1 {
+font-family: Arial;
+font-size : 17px;
+font-style: bold;
+color:#0000A0;
+}
+A:ACTIVE {
+font-family: Arial;
+font-size : 14px;
+font-style: bold;
+color:#FF0000;
+}
+A:HOVER {
+font-family: Arial;
+font-size : 14px;
+font-style: normal;
+color:#00FFFF;
+}
+A:VISITED {
+font-family: Arial;
+font-size : 13px;
+font-style: normal;
+color:#0000FF;
+}
+</STYLE>

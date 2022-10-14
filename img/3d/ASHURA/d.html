@@ -1,0 +1,115 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" > 
+
+<html><HEAD><TITLE>Hergonômica</TITLE>
+<META http-equiv=Content-Type content="text/html;">
+<LINK href="all.css" type=text/css rel=stylesheet><hEAD>
+
+<script language="javascript">
+
+
+function findLiveHeight(){
+if(window.innerHeight != null)
+return window.innerHeight;
+if (document.body.clientHeight != null)
+return document.body.clientHeight;
+return (null);}
+
+function findLiveWidth(){
+if(window.innerWidth > 0 )
+return window.innerWidth; 
+if (document.body.clientWidth >0 )
+return document.body.clientWidth;
+return (null);}
+</script>
+
+<BODY onResize="makeUnits()" bgcolor="#ffffff" style="margin-top: 0px;margin-bottom: 0px;margin-right: 0px;margin-left: 0px;" >
+
+<script language="javascript">
+tamanho=true
+</script>
+
+<div style="POSITION: absolute; LEFT: 0px; TOP: 0px;">
+<IMG height="115" WIDTH="229" src="images\cabec.jpg" border=0> 
+</div>
+<div style="LEFT: 229px; POSITION: absolute; TOP: 0px">
+<IMG name="im1" height="93"src="images\top.jpg" width="200">
+</div>
+
+<div style="LEFT: 0px; POSITION: absolute; TOP: 03px">
+<OBJECT id=anim2 codeBase=http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0 
+height=130 width=160 classid=clsid:D27CDB6E-AE6D-11cf-96B8-444553540000>
+<PARAM NAME="Movie" VALUE="anim2.swf">
+<PARAM NAME="Src" VALUE="anim2.swf">
+<PARAM NAME="WMode" VALUE="Transparent">
+<PARAM NAME="Loop" VALUE="0">
+<PARAM NAME="Quality" VALUE="AutoHigh">
+<PARAM NAME="Scale" VALUE="ExactFit">
+<PARAM NAME="BGColor" VALUE="FFFFFF">
+ <EMBED src="anim2.swf" loop=false quality=autohigh scale=exactfit wmode=transparent bgcolor=#FFFFFF  WIDTH="160" HEIGHT="130" NAME="anim2" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED></OBJECT>
+</div>
+
+<div id="Menu" style=" visibility: visible;LEFT: 165px;WIDTH: 600px;POSITION: absolute;
+TOP: 50px;HEIGHT: 26px">
+<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000"
+ codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0"
+ WIDTH="100%" HEIGHT="26" id="menu" ALIGN="">
+<PARAM NAME=movie VALUE="menu.swf">
+<PARAM NAME=quality VALUE=high>
+<PARAM NAME=wmode VALUE=transparent>
+<PARAM NAME=bgcolor VALUE=#FFFFFF>
+<EMBED src="menu.swf" quality=high wmode=transparent bgcolor=#FFFFFF  WIDTH="100%" HEIGHT="26" NAME="menu" ALIGN=""
+ TYPE="application/x-shockwave-flash" PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer"></EMBED>
+</OBJECT>
+</div>
+
+<div name="fram" id="fram" style="WIDTH: 70%; height: 70%; LEFT: 00px;
+POSITION: absolute; TOP: 115px">
+<IFRAME frameborder="0" marginheight="10" marginwidth="10"
+name="home" id="Fam" scrolling="no" src="princ.htm" width="100%"
+style="height=100%"></IFRAME>
+</div>
+
+
+<script language="javascript">
+
+makeUnits()
+function  makeUnits(){
+pageHeight = findLiveHeight();
+pageWidth = findLiveWidth();
+build();}
+
+function build2(myvar){ 
+
+if (myvar+123 < pageHeight)
+{fram.style.height=pageHeight-134
+}
+else{fram.style.height=myvar
+}}
+
+function build0() { 
+fram.style.height=1500;
+im2.height=1700;
+}
+
+function build() { 
+
+var larg = pageWidth
+
+if (tamanho) {
+if (pageWidth < 800){
+larg=800
+}}
+
+	im1.width = larg-230
+	fram.style.width = larg
+	
+if(pageWidth < 770)
+{Menu.style.width=pageWidth-170;}
+else{Menu.style.width=600}
+
+if (Fam.tam!=null){Fam.tam()}
+}
+
+</script>
+</BODY></html> 

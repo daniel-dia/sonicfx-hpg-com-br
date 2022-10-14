@@ -1,0 +1,89 @@
+
+ O volume da unidade D ‚ DISK1_VOL1 
+ O n£mero de s‚rie do volume ‚ 2116-4CF4
+ Pasta de D:\DANIEL\trabalhos\Paginas\Chaos emerald\int\midi\sonic3k
+
+.              <DIR>        28/02/99  16:13 .
+..             <DIR>        28/02/99  16:13 ..
+ANGEL_1  MID        12.941  07/12/00  23:41 angel_1.mid
+ANGEL_2  MID        13.630  07/12/00  23:42 angel_2.mid
+AZURE_L  MID        23.552  07/12/00  23:42 azure_l.mid
+B_PARK   MID        13.840  07/12/00  23:42 b_park.mid
+BATTERY1 MID        17.075  07/12/00  23:42 battery1.mid
+BATTERY2 MID        15.521  07/12/00  23:42 battery2.mid
+BONUS1   MID        21.292  07/12/00  23:42 bonus1.mid
+BONUS2   MID         9.346  07/12/00  23:42 bonus2.mid
+BONUS3   MID        11.790  07/12/00  23:42 bonus3.mid
+CARNIVA2 MID         9.445  07/12/00  23:42 carniva2.mid
+CARNIVAL MID        14.213  07/12/00  23:43 carnival.mid
+CHROME_G MID        17.088  07/12/00  23:44 chrome_g.mid
+D_PALACE MID        20.072  07/12/00  23:44 d_palace.mid
+DEATHE_1 MID        21.812  07/12/00  23:44 deathe_1.mid
+DEATHE_2 MID        21.173  07/12/00  23:44 deathe_2.mid
+DOOMSDAY MID        29.656  07/12/00  23:44 doomsday.mid
+ENDLESSM MID        25.639  07/12/00  23:45 endlessm.mid
+H_PALACE MID        25.330  07/12/00  23:47 h_palace.mid
+HYDRO_1  MID        12.762  07/12/00  23:48 hydro_1.mid
+HYDRO_2  MID        40.470  07/12/00  23:48 hydro_2.mid
+ICECAP   MID        15.980  07/12/00  23:48 icecap.mid
+ICECAP2  MID        18.600  07/12/00  23:48 icecap2.mid
+KNUCKLES MID         7.074  07/12/00  23:48 knuckles.mid
+L_BASE1  MID        11.346  07/12/00  23:48 l_base1.mid
+L_BASE2  MID         9.435  07/12/00  23:49 l_base2.mid
+LAVAREEF MID        16.852  07/12/00  23:49 lavareef.mid
+MGARDN_2 MID         8.861  07/12/00  23:51 mgardn_2.mid
+MUSHHILL MID        12.226  07/12/00  23:52 mushhill.mid
+MUSHHIL2 MID        13.993  07/12/00  23:51 mushhil2.mid
+MGARDN_1 MID         9.742  07/12/00  23:51 mgardn_1.mid
+ROBOTNIK MID        13.077  08/12/00   0:21 robotnik.mid
+S-K_END  MID        39.890  08/12/00   0:22 s-k_end.mid
+S3_SS    MID        16.047  08/12/00   0:22 s3_ss.mid
+SAND_1   MID        12.835  08/12/00   0:23 sand_1.mid
+SAND_2   MID         9.385  08/12/00   0:23 sand_2.mid
+SELECT   MID        15.149  08/12/00   0:23 select.mid
+SKY_S    MID        17.004  08/12/00   0:23 sky_s.mid
+SON3END  MID        11.516  08/12/00   0:24 son3end.mid
+ACT1BOSS MID        19.718  07/12/00  23:41 act1boss.mid
+SOUND1   MID        44.074  01/01/01  18:27 sound1.mid
+ANGEL_1  HTM           602  28/02/99  16:15 ANGEL_1.HTM
+ANGEL_2  HTM           602  28/02/99  16:15 ANGEL_2.HTM
+AZURE_L  HTM           602  28/02/99  16:15 AZURE_L.HTM
+B_PARK   HTM           601  28/02/99  16:15 B_PARK.HTM
+BATTERY1 HTM           603  28/02/99  16:15 BATTERY1.HTM
+BATTERY2 HTM           603  28/02/99  16:15 BATTERY2.HTM
+BONUS1   HTM           601  28/02/99  16:15 BONUS1.HTM
+BONUS2   HTM           601  28/02/99  16:15 BONUS2.HTM
+BONUS3   HTM           601  28/02/99  16:15 BONUS3.HTM
+CARNIVA2 HTM           603  28/02/99  16:15 CARNIVA2.HTM
+CARNIVAL HTM           603  28/02/99  16:15 CARNIVAL.HTM
+CHROME_G HTM           603  28/02/99  16:15 CHROME_G.HTM
+D_PALACE HTM           603  28/02/99  16:15 D_PALACE.HTM
+DEATHE_1 HTM           603  28/02/99  16:15 DEATHE_1.HTM
+DEATHE_2 HTM           603  28/02/99  16:15 DEATHE_2.HTM
+DOOMSDAY HTM           603  28/02/99  16:15 DOOMSDAY.HTM
+ENDLESSM HTM           603  28/02/99  16:15 ENDLESSM.HTM
+H_PALACE HTM           603  28/02/99  16:15 H_PALACE.HTM
+HYDRO_1  HTM           602  28/02/99  16:15 HYDRO_1.HTM
+HYDRO_2  HTM           602  28/02/99  16:15 HYDRO_2.HTM
+ICECAP   HTM           601  28/02/99  16:15 ICECAP.HTM
+ICECAP2  HTM           602  28/02/99  16:15 ICECAP2.HTM
+KNUCKLES HTM           603  28/02/99  16:15 KNUCKLES.HTM
+L_BASE1  HTM           602  28/02/99  16:15 L_BASE1.HTM
+L_BASE2  HTM           602  28/02/99  16:15 L_BASE2.HTM
+LAVAREEF HTM           603  28/02/99  16:15 LAVAREEF.HTM
+MGARDN_2 HTM           603  28/02/99  16:15 MGARDN_2.HTM
+MUSHHILL HTM           603  28/02/99  16:15 MUSHHILL.HTM
+MUSHHIL2 HTM           603  28/02/99  16:15 MUSHHIL2.HTM
+MGARDN_1 HTM           603  28/02/99  16:15 MGARDN_1.HTM
+ROBOTNIK HTM           603  28/02/99  16:15 ROBOTNIK.HTM
+S-K_END  HTM           602  28/02/99  16:15 S-K_END.HTM
+S3_SS    HTM           600  28/02/99  16:15 S3_SS.HTM
+SAND_1   HTM           601  28/02/99  16:15 SAND_1.HTM
+SAND_2   HTM           601  28/02/99  16:15 SAND_2.HTM
+SELECT   HTM           601  28/02/99  16:15 SELECT.HTM
+SKY_S    HTM           600  28/02/99  16:15 SKY_S.HTM
+SON3END  HTM           602  28/02/99  16:15 SON3END.HTM
+ACT1BOSS HTM           603  28/02/99  16:15 ACT1BOSS.HTM
+S3K      TXT             0  01/03/01  16:25 s3k.txt
+        80 arquivo(s)        722.936  bytes
+         2 pasta(s)      32.915.456  bytes dispon¡veis
